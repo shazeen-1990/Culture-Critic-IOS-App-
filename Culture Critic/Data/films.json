@@ -1,0 +1,156 @@
+[
+    {   "id":"de5fdea7-c7d9-4390-81ee-8174b33236c1",
+        "name": "Animation",
+        "films":
+        [
+            {
+               "id":"fd995fd0-8d21-11ec-b909-0242ac120002",
+               "title":"Wall-E",
+               "duration": 88,
+               "rating": 0,
+               "toWatch": false,
+               "img":"wall-e",
+               "description":"In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+               "rank":1
+            },
+            {
+               "id":"fd996228-8d21-11ec-b909-0242ac120002",
+               "title":"Lion King",
+               "duration": 78,
+               "rating":0,
+               "toWatch": false,
+               "img":"lion-king",
+               "description":"Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+               "rank":2
+            },
+            {
+               "id":"fd996368-8d21-11ec-b909-0242ac120002",
+               "title":"Finding Nemo",
+               "duration": 100,
+               "rating":0,
+               "toWatch": false,
+               "img":"finding-nemo",
+               "description":"After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+               "rank":3
+            },
+            {
+               "id":"fd996494-8d21-11ec-b909-0242ac120002",
+               "title":"Encanto",
+               "duration": 124,
+               "rating":0,
+               "toWatch": false,
+               "img":"encanto",
+               "description":"A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.",
+               "rank":4
+            }
+        ]
+    },
+    {   "id":"",
+        "name": "Comedy",
+        "films":
+        [
+            {
+                "id":"2f81bb46-8d22-11ec-b909-0242ac120002",
+               "title":"The Wolf of Wall Street",
+               "duration": 180,
+               "rating": 0,
+               "toWatch": false,
+               "img":"wolf-of-wall-st",
+               "description":"Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+               "rank":1
+            },
+            {
+                "id":"2f81bd76-8d22-11ec-b909-0242ac120002",
+               "title":"Back To The Future",
+               "duration": 116,
+               "rating":0,
+               "toWatch": false,
+               "img":"back-to-the-future",
+               "description":"Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+               "rank":2
+            },
+            {
+                "id":"2f81bec0-8d22-11ec-b909-0242ac120002",
+               "title":"Guardians of the Galaxy",
+               "duration": 121,
+               "rating":0,
+               "toWatch": false,
+               "img":"guardians-of-the-galaxy",
+               "description":"A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+               "rank":3
+            }
+        ]
+    },
+    {   "id":"2f81bfec-8d22-11ec-b909-0242ac120002",
+        "name": "Action",
+        "films":
+        [
+            {
+                "id":"2f81c1c2-8d22-11ec-b909-0242ac120002",
+               "title":"The Dark Knight",
+               "duration": 152,
+               "rating": 0,
+               "toWatch": false,
+               "img":"the-dark-knight",
+               "description":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+               "rank":1
+            },
+            {
+                "id":"4a72bef0-8d22-11ec-b909-0242ac120002",
+               "title":"Inception",
+               "duration": 148,
+               "rating":0,
+               "toWatch": false,
+               "img":"inception",
+               "description":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+               "rank":2
+            },
+            {
+                "id":"4a72c1c0-8d22-11ec-b909-0242ac120002",
+               "title":"The Matrix",
+               "duration": 136,
+               "rating":0,
+               "toWatch": false,
+               "img":"matrix",
+               "description":"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+               "rank":3
+            }
+        ]
+    },
+    {   "id":"4a72c38c-8d22-11ec-b909-0242ac120002",
+        "name": "Thriller",
+        "films":
+        [
+            {
+                "id":"4a72c738-8d22-11ec-b909-0242ac120002",
+               "title":"Seven",
+               "duration": 127,
+               "rating": 0,
+               "toWatch": false,
+               "img":"seven",
+               "description":"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+               "rank":1
+            },
+            {
+                "id":"4a72c8dc-8d22-11ec-b909-0242ac120002",
+               "title":"Silence of The Lambs",
+               "duration": 118,
+               "rating":0,
+               "toWatch": false,
+               "img":"silence-of-the-lambs",
+               "description":"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+               "rank":2
+            },
+            {
+                "id":"66d8573a-8d22-11ec-b909-0242ac120002",
+               "title":"The Prestige",
+               "duration": 130,
+               "rating":0,
+               "toWatch": false,
+               "img":"prestige",
+               "description":"After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+               "rank":3
+            }
+        ]
+    }
+]
